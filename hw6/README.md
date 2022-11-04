@@ -2,4 +2,4 @@
 
 ## HW6
 
-SMOTE Analysis 
+SMOTE Analysis
